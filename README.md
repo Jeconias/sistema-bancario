@@ -11,5 +11,5 @@ O projeto é uma atividade acadêmica que utiliza a linguagem de programação J
 
 ## Licença
 * Licença: [MIT License](https://opensource.org/licenses/MIT)
-* Copyright: [Gustavo Laires](https://github.com/gustavolaires), [Jeconias Santos](https://github.com/jeconiassantos)
+* Copyright: [Gustavo Laires](https://github.com/gustavolaires), [Jeconias Santos](https://github.com/jeconias)
 * Status: Desenvolvimento
